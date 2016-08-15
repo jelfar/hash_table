@@ -1,0 +1,4 @@
+#java_hash_table
+
+A Java hash table implementation that uses open addressing and
+quadratic probing. Supports insert, find, and delete operations.
